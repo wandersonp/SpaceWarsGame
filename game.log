@@ -1,0 +1,508 @@
+2021-03-05 19:12:22,111: INFO: Log Init:
+2021-03-05 19:12:22,112: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:12:22,112: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:12:22,579: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:12:22,581: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:13:08,854: INFO: Log Init:
+2021-03-05 19:13:08,855: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:13:08,855: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:13:09,145: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:13:09,145: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:13:35,967: INFO: Log Init:
+2021-03-05 19:13:35,967: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:13:35,967: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:13:36,266: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:13:36,266: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:15:12,404: INFO: Log Init:
+2021-03-05 19:15:12,404: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:15:12,404: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:15:12,782: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:15:12,782: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:15:41,418: INFO: Log Init:
+2021-03-05 19:15:41,420: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:15:41,420: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:15:41,875: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:15:41,875: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:16:10,346: INFO: Log Init:
+2021-03-05 19:16:10,346: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:16:10,348: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:16:10,813: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:16:10,815: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:17:39,262: INFO: Log Init:
+2021-03-05 19:17:39,263: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:17:39,263: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:17:39,713: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:17:39,713: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:18:02,632: INFO: Log Init:
+2021-03-05 19:18:02,634: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:18:02,634: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:18:03,082: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:18:03,082: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:18:03,082: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:18:34,046: INFO: Log Init:
+2021-03-05 19:18:34,046: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:18:34,048: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:18:34,494: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:18:34,494: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:18:34,496: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:20:41,391: INFO: Log Init:
+2021-03-05 19:20:41,391: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:20:41,391: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:20:41,846: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:20:41,848: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:20:59,078: INFO: Log Init:
+2021-03-05 19:20:59,078: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:20:59,078: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:20:59,525: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:20:59,526: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:20:59,526: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:20:59,528: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:20:59,529: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:22:41,371: INFO: Log Init:
+2021-03-05 19:22:41,372: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:22:41,374: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:22:41,829: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:22:41,831: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:22:41,832: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:22:41,832: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:22:41,832: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:24:13,292: INFO: Log Init:
+2021-03-05 19:24:13,292: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:24:13,292: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:24:13,750: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:24:13,750: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:24:13,752: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:24:13,752: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:24:13,753: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:25:10,740: INFO: Log Init:
+2021-03-05 19:25:10,740: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:25:10,742: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:25:11,200: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:25:11,200: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:25:11,201: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:25:11,203: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:25:11,203: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:25:46,910: INFO: Log Init:
+2021-03-05 19:25:46,911: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:25:46,911: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:25:47,375: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:25:47,375: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:25:47,377: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:25:47,378: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:25:47,378: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:28:25,940: INFO: Log Init:
+2021-03-05 19:28:25,941: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:28:25,941: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:28:26,398: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:28:26,398: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:28:26,400: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:28:26,401: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:28:26,401: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:28:48,446: INFO: Log Init:
+2021-03-05 19:28:48,447: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:28:48,447: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:28:48,898: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:28:48,898: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:28:48,898: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:28:48,900: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:28:48,900: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:29:10,361: INFO: Log Init:
+2021-03-05 19:29:10,361: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:29:10,361: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:29:10,818: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:29:10,819: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:29:10,819: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:29:10,819: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:29:10,821: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:34:25,005: INFO: Log Init:
+2021-03-05 19:34:25,006: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:34:25,006: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:34:25,506: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:34:25,506: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:34:25,507: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:34:25,507: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:34:25,509: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:34:49,759: INFO: Log Init:
+2021-03-05 19:34:49,760: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:34:49,760: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:34:50,272: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:34:50,273: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:34:50,273: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:34:50,273: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:34:50,275: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:36:04,036: INFO: Log Init:
+2021-03-05 19:36:04,038: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:36:04,038: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:36:04,536: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:36:04,538: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:36:04,538: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:36:04,539: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:36:04,539: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:38:06,867: INFO: Log Init:
+2021-03-05 19:38:06,868: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:38:06,868: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:38:07,318: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:38:07,319: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:38:07,319: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:38:07,319: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:38:07,319: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:39:35,946: INFO: Log Init:
+2021-03-05 19:39:35,947: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:39:35,947: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:39:36,611: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:39:36,612: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:39:36,614: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:39:36,615: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:39:36,615: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:40:37,996: INFO: Log Init:
+2021-03-05 19:40:37,997: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:40:37,997: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:40:38,457: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:40:38,459: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:40:38,460: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:40:38,460: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:40:38,460: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:40:58,020: INFO: Log Init:
+2021-03-05 19:40:58,022: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:40:58,022: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:40:58,473: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:40:58,474: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:40:58,476: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:40:58,476: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:40:58,476: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:41:24,766: INFO: Log Init:
+2021-03-05 19:41:24,767: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:41:24,767: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:41:25,223: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:41:25,224: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:41:25,226: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:41:25,226: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:41:25,226: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:41:35,875: INFO: Log Init:
+2021-03-05 19:41:35,875: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:41:35,875: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:41:36,342: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:41:36,342: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:41:36,344: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:41:36,344: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:41:36,345: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:46:34,615: INFO: Log Init:
+2021-03-05 19:46:34,618: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:46:34,618: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:46:35,250: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:46:35,250: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:46:35,252: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:46:35,253: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:46:35,253: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:46:53,730: INFO: Log Init:
+2021-03-05 19:46:53,732: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:46:53,732: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:46:54,193: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:46:54,194: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:46:54,194: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:46:54,194: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:46:54,196: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:47:57,318: INFO: Log Init:
+2021-03-05 19:47:57,319: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:47:57,319: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:47:57,769: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:47:57,770: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:47:57,770: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:47:57,772: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:47:57,772: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:49:10,625: INFO: Log Init:
+2021-03-05 19:49:10,625: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:49:10,625: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:49:11,094: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:49:11,095: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:49:11,095: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:49:11,095: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:49:11,096: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:51:01,118: INFO: Log Init:
+2021-03-05 19:51:01,118: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:51:01,118: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:51:01,596: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:51:01,598: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:51:01,598: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:51:01,598: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:51:01,599: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:51:22,970: INFO: Log Init:
+2021-03-05 19:51:22,970: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:51:22,970: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:51:23,463: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:51:23,464: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:51:23,466: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:51:23,466: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:51:23,467: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:51:59,184: INFO: Log Init:
+2021-03-05 19:51:59,184: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:51:59,184: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:51:59,683: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:51:59,684: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:51:59,684: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:51:59,686: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:51:59,687: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:52:52,053: INFO: Log Init:
+2021-03-05 19:52:52,055: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:52:52,055: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:52:52,529: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:52:52,530: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:52:52,532: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:52:52,532: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:52:52,532: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:54:32,630: INFO: Log Init:
+2021-03-05 19:54:32,631: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:54:32,631: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:54:33,111: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:54:33,112: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:54:33,112: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:54:33,114: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:54:33,114: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:55:24,875: INFO: Log Init:
+2021-03-05 19:55:24,877: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:55:24,877: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:55:25,355: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:55:25,355: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:55:25,357: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:55:25,358: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:55:25,358: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 19:57:48,390: INFO: Log Init:
+2021-03-05 19:57:48,391: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 19:57:48,391: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 19:57:48,875: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 19:57:48,875: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 19:57:48,875: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 19:57:48,877: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 19:57:48,878: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:00:04,187: INFO: Log Init:
+2021-03-05 20:00:04,187: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:00:04,187: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:00:04,684: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:00:04,686: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:00:04,687: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:00:04,687: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:00:04,688: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:02:22,403: INFO: Log Init:
+2021-03-05 20:02:22,404: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:02:22,404: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:02:22,887: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:02:22,888: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:02:22,888: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:02:22,890: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:02:22,890: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:03:18,154: INFO: Log Init:
+2021-03-05 20:03:18,154: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:03:18,155: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:03:18,638: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:03:18,640: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:03:18,640: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:03:18,641: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:03:18,641: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:05:40,466: INFO: Log Init:
+2021-03-05 20:05:40,467: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:05:40,467: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:05:40,946: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:05:40,947: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:05:40,947: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:05:40,947: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:05:40,948: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:06:05,828: INFO: Log Init:
+2021-03-05 20:06:05,828: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:06:05,828: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:06:06,309: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:06:06,309: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:06:06,311: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:06:06,312: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:06:06,312: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:06:42,571: INFO: Log Init:
+2021-03-05 20:06:42,572: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:06:42,572: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:06:43,059: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:06:43,061: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:06:43,062: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:06:43,062: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:06:43,062: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:10:07,996: INFO: Log Init:
+2021-03-05 20:10:07,996: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:10:07,996: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:10:08,487: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:10:08,489: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:10:08,490: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:10:08,490: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:10:08,490: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:11:24,119: INFO: Log Init:
+2021-03-05 20:11:24,119: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:11:24,121: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:11:24,602: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:11:24,604: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:11:24,605: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:11:24,605: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:11:24,607: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:11:54,315: INFO: Log Init:
+2021-03-05 20:11:54,316: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:11:54,316: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:11:54,799: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:11:54,799: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:11:54,799: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:11:54,801: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:11:54,801: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:12:22,076: INFO: Log Init:
+2021-03-05 20:12:22,078: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:12:22,078: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:12:22,561: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:12:22,562: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:12:22,562: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:12:22,562: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:12:22,562: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:12:46,855: INFO: Log Init:
+2021-03-05 20:12:46,857: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:12:46,857: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:12:47,335: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:12:47,335: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:12:47,336: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:12:47,336: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:12:47,338: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:13:46,323: INFO: Log Init:
+2021-03-05 20:13:46,325: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:13:46,325: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:13:46,812: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:13:46,812: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:13:46,813: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:13:46,813: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:13:46,815: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:14:11,108: INFO: Log Init:
+2021-03-05 20:14:11,108: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:14:11,108: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:14:11,592: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:14:11,592: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:14:11,594: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:14:11,594: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:14:11,595: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:14:50,989: INFO: Log Init:
+2021-03-05 20:14:50,990: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:14:50,990: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:14:51,471: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:14:51,473: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:14:51,473: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:14:51,473: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:14:51,474: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:15:20,302: INFO: Log Init:
+2021-03-05 20:15:20,303: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:15:20,303: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:15:21,023: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:15:21,023: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:15:21,023: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:15:21,025: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:15:21,026: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:16:41,132: INFO: Log Init:
+2021-03-05 20:16:41,134: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:16:41,134: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:16:41,615: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:16:41,617: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:16:41,618: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:16:41,618: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:16:41,618: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:17:08,301: INFO: Log Init:
+2021-03-05 20:17:08,302: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:17:08,302: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:17:08,802: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:17:08,803: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:17:08,803: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:17:08,805: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:17:08,805: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:17:42,131: INFO: Log Init:
+2021-03-05 20:17:42,132: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:17:42,132: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:17:42,615: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:17:42,615: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:17:42,617: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:17:42,618: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:17:42,618: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:23:52,217: INFO: Log Init:
+2021-03-05 20:23:52,219: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:23:52,219: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:23:52,701: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:23:52,703: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:23:52,703: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:23:52,704: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:23:52,704: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:27:57,586: INFO: Log Init:
+2021-03-05 20:27:57,588: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:27:57,588: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:27:58,052: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:27:58,053: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:27:58,055: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:27:58,055: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:27:58,055: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:28:15,622: INFO: Log Init:
+2021-03-05 20:28:15,624: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:28:15,624: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:28:16,096: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:28:16,096: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:28:16,098: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:28:16,098: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:28:16,098: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:28:26,007: INFO: Log Init:
+2021-03-05 20:28:26,009: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:28:26,009: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:28:26,490: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:28:26,492: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:28:26,493: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:28:26,493: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:28:26,493: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:28:36,828: INFO: Log Init:
+2021-03-05 20:28:36,828: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:28:36,828: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:28:37,302: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:28:37,302: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:28:37,303: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:28:37,303: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:28:37,305: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:29:41,467: INFO: Log Init:
+2021-03-05 20:29:41,467: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:29:41,467: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:29:41,951: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:29:41,951: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:29:41,953: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:29:41,953: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:29:41,953: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:30:43,198: INFO: Log Init:
+2021-03-05 20:30:43,198: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:30:43,200: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:30:43,690: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:30:43,690: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:30:43,691: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:30:43,693: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:30:43,693: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:32:37,171: INFO: Log Init:
+2021-03-05 20:32:37,171: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:32:37,171: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:32:37,648: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:32:37,648: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:32:37,650: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:32:37,651: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:32:37,651: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:37:43,282: INFO: Log Init:
+2021-03-05 20:37:43,283: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:37:43,283: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:37:43,759: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:37:43,759: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:37:43,760: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:37:43,760: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:37:43,762: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:47:06,244: INFO: Log Init:
+2021-03-05 20:47:06,246: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:47:06,246: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:47:06,734: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:47:06,736: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:47:06,736: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:47:06,736: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:47:06,737: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
+2021-03-05 20:55:35,536: INFO: Log Init:
+2021-03-05 20:55:35,536: INFO: Images Path: d:\_Estudos\Python\pygame\resource\img\
+2021-03-05 20:55:35,536: INFO: Sounds Path: d:\_Estudos\Python\pygame\resource\sound\
+2021-03-05 20:55:36,029: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\icon.png
+2021-03-05 20:55:36,030: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\hero.png
+2021-03-05 20:55:36,032: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\enemy_01.png
+2021-03-05 20:55:36,032: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\trophy.png
+2021-03-05 20:55:36,032: INFO: Resource: d:\_Estudos\Python\pygame\resource\img\explosion_01.png
